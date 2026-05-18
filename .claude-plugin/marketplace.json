@@ -1,0 +1,79 @@
+{
+  "name": "elevenlabs",
+  "owner": {
+    "name": "Elevenlabs"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/elevenlabs-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "elevenlabs-audio-isolation",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-audio-isolation.git"
+      }
+    },
+    {
+      "name": "elevenlabs-conversational-ai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-conversational-ai.git"
+      }
+    },
+    {
+      "name": "elevenlabs-dubbing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-dubbing.git"
+      }
+    },
+    {
+      "name": "elevenlabs-music",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-music.git"
+      }
+    },
+    {
+      "name": "elevenlabs-sound-effects",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-sound-effects.git"
+      }
+    },
+    {
+      "name": "elevenlabs-stt",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-stt.git"
+      }
+    },
+    {
+      "name": "elevenlabs-tts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-tts.git"
+      }
+    },
+    {
+      "name": "elevenlabs-voice-conversion",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-voice-conversion.git"
+      }
+    },
+    {
+      "name": "elevenlabs-voice-design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-voice-design.git"
+      }
+    },
+    {
+      "name": "elevenlabs-voices",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/elevenlabs-voices.git"
+      }
+    }
+  ]
+}
